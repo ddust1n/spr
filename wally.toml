@@ -1,0 +1,12 @@
+[package]
+name = "ddust1n/spr"
+description = "Fork of Fraktality's spr - Small and fast motion library."
+version = "0.0.1"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/**", "default.project.json", "LICENSE", "wally.toml"]
+
+[dependencies]
